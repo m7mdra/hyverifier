@@ -1,4 +1,4 @@
-# hyverifier
+# HyVerifier
 
 A new Flutter application.
 
